@@ -3,11 +3,11 @@ This Tableau dashboard provides an in-depth analysis of OList's eCommerce platfo
 
 
 
-This dashboard showcases customer and seller distribution across regions in Brazil. The Southeast region emerges as the leader in both customer and seller density, driving the highest sales
+This dashboard showcases customer and seller distribution across regions in Brazil. 
 ![image](https://github.com/user-attachments/assets/77f45b25-f8e0-4100-a0d4-5ddde964c149)
 
 
-This dashboard analyzes sales performance by category and sub-category, with 'Leisure and Lifestyle' and 'bed_bath_table' leading. A growing sales trend from 2016 to 2019 highlights steady eCommerce expansion
+This dashboard analyzes sales performance by category and sub-category, with 'Leisure and Lifestyle' and 'bed_bath_table' leading. 
 ![image](https://github.com/user-attachments/assets/5719c203-3232-4652-801b-269bb5a153b7)
 
 
